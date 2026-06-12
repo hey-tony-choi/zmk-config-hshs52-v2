@@ -1,3 +1,4 @@
+name: zmk-keyboard-hshs52
 build:
   settings:
     board_root: .
